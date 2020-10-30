@@ -32,6 +32,10 @@ dependencies:
   - tweepy
   - xarray
   - scipy
+  - netCDF4
+  - rioxarray
+  - nc-time-axis
+  - regionmask
 
   # Natural language processing
   - nltk
